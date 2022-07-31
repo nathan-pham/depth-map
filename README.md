@@ -1,6 +1,6 @@
 # Depth Map
 
-Using [MiDaS](https://github.com/isl-org/MiDaS) to auto generated depth maps for creative coding
+Using [MiDaS](https://github.com/isl-org/MiDaS) to generate depth maps for creative coding
 
 ## Citations
 
